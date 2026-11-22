@@ -32,10 +32,10 @@ align-items:center;
 padding:18px 0;
 }
 
-.logo{
-font-size:30px;
-font-weight:bold;
-color:#d4af37;
+.logo img{
+height:50px;
+width:auto;
+display:block;
 }
 
 .language-switch button{
